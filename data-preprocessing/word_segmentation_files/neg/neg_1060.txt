@@ -1,0 +1,1 @@
+ngồi 10p , gọi đồ 3 lần nhưng cuối_cùng chỉ nhận lại đúng một câu vào sau thông_cảm gọi đồ sau , xong order trước cho một bàn đông người hơn .

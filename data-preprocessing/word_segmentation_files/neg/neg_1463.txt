@@ -1,0 +1,1 @@
+khách không order nhưng vẫn mang đồ ra nói là đồ_ăn kèm và tính phí .

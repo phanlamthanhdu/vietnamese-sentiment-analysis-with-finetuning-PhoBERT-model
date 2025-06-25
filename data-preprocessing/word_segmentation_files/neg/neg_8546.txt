@@ -1,0 +1,1 @@
+nhân_viên quán thiếu trách_nhiệm , anh_em grab chạy đến lấy đơn đưa đơn nhân_viên làm song_song trả lại hoá_đơn chúng_tôi cần hoá_đơn để giao cho khách còn nếu quán muốn giữ hoá_đơn thì in 2 cái mà giữ .

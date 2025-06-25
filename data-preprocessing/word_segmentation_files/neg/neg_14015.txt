@@ -1,0 +1,1 @@
+quản_lý phục_vụ khó_chịu , hỏi món có hay không không trả_lời , giá món trên menu với lúc kêu ra không khớp , báo là bán theo lạng nên giá khác .

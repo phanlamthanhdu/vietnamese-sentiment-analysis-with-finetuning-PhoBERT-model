@@ -1,0 +1,1 @@
+quan không có hoá_đơn vat , xuất hoá_đơn bán hàng lại công thêm 3% , món ăn cung thường thường .

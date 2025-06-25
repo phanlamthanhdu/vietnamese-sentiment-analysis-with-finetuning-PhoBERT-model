@@ -1,0 +1,1 @@
+đợi món lâu , gọi mất 1 tiếng chưa có món ra , đặt món lẩu riêu cua từ trước mà đến gọi xong các món thì lại báo hết lẩu .

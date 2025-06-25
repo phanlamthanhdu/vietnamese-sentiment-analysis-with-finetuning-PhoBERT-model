@@ -1,0 +1,1 @@
+gọi mang về 3 lần thì chỉ 1 lần đúng món , gọi mì ra hủ_tiếu , gọi xá_xíu ra xương .

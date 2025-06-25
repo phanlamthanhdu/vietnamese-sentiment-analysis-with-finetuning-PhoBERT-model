@@ -1,0 +1,1 @@
+quán_tính tiền rất ăn_gian , cộng thêm món ăn và số_lượng , bị phát_giác đã trừ bớt món nhưng do say xem thiếu số_lượng món , vẫn bị ăn_gian , rất phẫn_nộ , không bao_giờ quay lại quán ăn này .

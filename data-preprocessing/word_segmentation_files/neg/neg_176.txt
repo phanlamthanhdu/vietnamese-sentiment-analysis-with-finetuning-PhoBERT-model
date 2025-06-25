@@ -1,0 +1,1 @@
+đồ_ăn được , nhưng dọn món lên chậm , gọi tính tiền và lên món nhiều lần thì mới tính tiền và lên món .

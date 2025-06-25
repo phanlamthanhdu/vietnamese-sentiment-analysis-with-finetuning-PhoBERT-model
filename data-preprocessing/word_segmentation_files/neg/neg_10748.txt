@@ -1,0 +1,1 @@
+gọi món đa_phần nhân_viên báo hết món , gọi nước thì đến khi ăn xong tính tiền nước vẫn chưa ra , nhân_viên ok .

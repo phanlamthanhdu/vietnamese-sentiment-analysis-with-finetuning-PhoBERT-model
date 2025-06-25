@@ -1,0 +1,1 @@
+quản_lý có thái_độ với khách_hàng tự_động kêu nhân_viên chốt order khi chưa hỏi ý_kiến khách_hàng , lên không đủ số_lượng món .

@@ -1,0 +1,1 @@
+phòng riêng lịch_sự , nhân_viên phục_vụ mang soup mà không mang muỗng , đồ_ăn thì gọi 10 món là 3 món hết nguyên_liệu .

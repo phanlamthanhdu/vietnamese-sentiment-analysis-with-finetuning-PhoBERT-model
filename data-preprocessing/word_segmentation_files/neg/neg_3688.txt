@@ -1,0 +1,1 @@
+để khách đợi lâu , người ta gọi cấp_độ 0 mà làm cấp_độ cao hơn .

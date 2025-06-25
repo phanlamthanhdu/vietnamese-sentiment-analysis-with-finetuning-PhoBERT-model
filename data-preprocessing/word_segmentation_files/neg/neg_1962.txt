@@ -1,0 +1,1 @@
+gọi nhân_viên không trả_lời , thậm_chí khách đến sau còn được order trước .

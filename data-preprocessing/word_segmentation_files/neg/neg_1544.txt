@@ -1,0 +1,1 @@
+service tệ , phục_vụ không submit order hỏi lại vài lần sao chưa có thức_ăn cũng không ai kiểm_tra lại order , ngồi chờ 30p phục_vụ ra nói app lỗi không có order , kêu order lại .

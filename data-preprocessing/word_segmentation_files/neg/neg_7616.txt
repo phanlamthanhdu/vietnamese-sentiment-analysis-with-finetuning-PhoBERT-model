@@ -1,0 +1,1 @@
+nhân_viên thấy khách vào không hướng_dẫn order , khách gọi tới bàn order thì đầu_bếp nói với nhân_viên " em nói khách tới quầy order " , nhân_viên cũng im ru không báo lại gì với khách .

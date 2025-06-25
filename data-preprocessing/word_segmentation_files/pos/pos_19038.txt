@@ -1,0 +1,1 @@
+tạm ổn , ngoài giá thể_hiện menu khi tính phải trả thêm 10% vat dù có lấy hoá_đơn hay không vẩn phải chịu thêm phần thuế này .

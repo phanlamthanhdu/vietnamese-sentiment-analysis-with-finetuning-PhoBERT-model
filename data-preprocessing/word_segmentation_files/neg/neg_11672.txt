@@ -1,0 +1,1 @@
+ngồi 1 tiếng rưỡi ra được 1 món trong khi gọi 4món , rất chán cách sắp_xếp không thứ_tự khách ra vào khi khách gọi món ( ra sau có trước ) nhân_viên không kiểm_soát được bàn khách .

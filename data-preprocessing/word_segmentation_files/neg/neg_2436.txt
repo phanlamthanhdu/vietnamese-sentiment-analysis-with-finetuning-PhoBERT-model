@@ -1,0 +1,1 @@
+order có 1 cái bánh mà tận 30 phút mới có , trong khi các khách khác order sau mà_lại chỉ hơn 10 phút là có bánh , cần training lại cách làm_việc của nhân_viên ca sáng .

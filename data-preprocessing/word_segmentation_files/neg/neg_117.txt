@@ -1,0 +1,1 @@
+khách say tự thêm món vào hoá_đơn nhưng thực_chất không mang ra .

@@ -1,0 +1,1 @@
+nếu không đủ người , nhân_viên phục_vụ thì không nên nhận khách .

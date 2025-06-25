@@ -1,0 +1,1 @@
+nhân_viên quên mang đồ order , phải gọi đến 2 , 3 lần , nhân_viên có thái_độ phân_biệt khách_hàng .

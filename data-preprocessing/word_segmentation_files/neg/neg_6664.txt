@@ -1,0 +1,1 @@
+gọi món mà nhân_viên quên order , đợi hơn 1 tiếng , không 1 câu xin_lỗi .

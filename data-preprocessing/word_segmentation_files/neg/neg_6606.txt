@@ -1,0 +1,1 @@
+tính vat nhưng không chịu xuất hoá_đơn , nhập_nhằng để thu thêm tiền .

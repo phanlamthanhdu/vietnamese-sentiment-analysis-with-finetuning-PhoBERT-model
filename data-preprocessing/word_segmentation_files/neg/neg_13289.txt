@@ -1,0 +1,1 @@
+khách_hàng đặt pizza qua web hẹn giao từ 11h23 - 11h28 giao mà 11h30 mới gọi xác_nhận đơn hàng , khi khách_hàng gọi lại hỗ_trợ thì tắt máy ngang , thái_độ nhân_viên thì khó_chịu .

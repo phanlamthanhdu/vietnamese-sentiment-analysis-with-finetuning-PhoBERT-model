@@ -1,0 +1,1 @@
+quán nhập_nhèm tính vat + thêm vào giá đồ_ăn , giá trên menu chưa có vat , lúc thanh_toán tự_ý + 10% vat cho khách , khi được yêu_cầu xuất vat thì lấy lý_do 5 - 7 nữa quay lại xuất .

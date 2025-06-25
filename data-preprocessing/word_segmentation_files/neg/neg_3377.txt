@@ -1,0 +1,1 @@
+nhà_hàng để khách chờ quá lâu , order 40 phút chưa có đồ_ăn , ra hỏi đồ_ăn được chưa thì nói khách chờ thêm 10 phút , nếu không chờ được thì ac huỷ order , không bao_giờ quay lại nữa .

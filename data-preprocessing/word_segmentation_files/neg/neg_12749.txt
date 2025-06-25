@@ -1,0 +1,1 @@
+các món nướng là chính nhưng tên gọi bị lái đi , ví_dụ như cá_chép thì không gọi là cá_chép mà gọi là dầm xanh , ở đây không trực_tiếp xuất hoá_đơn vat nhé , nên bị mất thêm phí giao hoá_đơn .

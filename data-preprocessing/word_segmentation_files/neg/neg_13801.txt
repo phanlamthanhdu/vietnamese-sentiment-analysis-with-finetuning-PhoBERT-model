@@ -1,0 +1,1 @@
+ngồi vêu 40 ' đợi , gọi nhân_viên 2 lần mà vẫn quên không làm đồ .

@@ -1,0 +1,1 @@
+menu buffet ít món , thời_gian sử_dụng 120 phút , nhân_viên không thèm tư_vấn .

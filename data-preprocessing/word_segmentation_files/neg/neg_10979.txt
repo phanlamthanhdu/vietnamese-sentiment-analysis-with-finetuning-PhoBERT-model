@@ -1,0 +1,1 @@
+menu bắt thực_khách phải chọn set , nếu chọn đơn thì chỉ có đồ_ăn , không có cơm , đồ_ăn giá khá cao so với chất_lượng , không có điểm gì đặc_biệt so với món nhật , sẽ không quay lại .

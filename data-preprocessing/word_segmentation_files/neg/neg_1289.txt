@@ -1,0 +1,1 @@
+báo nhân_viên khi thanh_toán là tích điểm trên app , nhân_viên báo thành_công mà check không thấy đâu .

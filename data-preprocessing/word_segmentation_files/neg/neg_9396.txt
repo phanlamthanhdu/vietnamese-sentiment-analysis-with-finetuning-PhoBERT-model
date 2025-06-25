@@ -1,0 +1,1 @@
+nếu quán đóng_cửa thì thông_báo trước luôn đi .

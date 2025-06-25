@@ -1,0 +1,1 @@
+phần giới_thiệu của quán , có ghi là thanh_toán thẻ các kiểu , nhưng khi mình thanh_toán , nhân_viên báo máy lỗi , quán lớn mà dịch_vụ tệ quá .

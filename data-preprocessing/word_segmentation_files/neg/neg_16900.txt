@@ -1,0 +1,1 @@
+không xuất hoá_đơn dù đã thanh_toán đủ vat + phí .

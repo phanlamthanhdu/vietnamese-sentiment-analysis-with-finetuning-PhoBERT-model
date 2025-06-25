@@ -1,0 +1,1 @@
+gọi đặt bàn thì nhân_viên bảo không nhận đặt bàn , hỏi lại có bàn không ( do không biết khách đặt hết hay quán không nhận đặt bàn ) thì tắt máy ngang .

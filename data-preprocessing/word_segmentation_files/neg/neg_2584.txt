@@ -1,0 +1,1 @@
+chặt chém giữa lòng hà_nội , đã check bill bị thừa món không gọi về check lại thì sai cả số_lượng .

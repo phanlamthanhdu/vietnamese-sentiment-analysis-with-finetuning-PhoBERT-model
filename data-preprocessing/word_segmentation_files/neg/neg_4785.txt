@@ -1,0 +1,1 @@
+đợi lâu , giao không đúng đồ đã gọi , xong lúc phát_hiện ra mang sai đồ thì lại báo đồ khách gọi không có , phục_vụ quá tệ .

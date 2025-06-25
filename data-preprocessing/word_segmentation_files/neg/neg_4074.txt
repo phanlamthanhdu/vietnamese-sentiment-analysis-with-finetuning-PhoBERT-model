@@ -1,0 +1,1 @@
+gọi kem bảo với nhân_viên 5 6 lần , nhân_viên đem kem cho bàn khác trước , bàn mình nhân_viên luôn báo kem bàn mình đang làm ạ đợi hơn nửa tiếng vẫn chưa có kem ăn .

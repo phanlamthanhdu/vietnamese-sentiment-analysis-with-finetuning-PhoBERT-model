@@ -1,0 +1,1 @@
+sau 15 ' vào nhà_hàng , chưa ra món , chưa nước , độc 1 đĩa salad với 2 đĩa chiên , trong khi hiện_tại đang là buổi trưa , vắng khách .

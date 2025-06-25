@@ -1,0 +1,1 @@
+hết bàn huỷ đặt trước đã chấp_nhận , đến_nơi kêu có bàn chờ 8h , lưu_thông tin không gọi 8h05 hỏi lại vẫn kêu không có bàn nhưng cho các bàn chờ sau vào trước .

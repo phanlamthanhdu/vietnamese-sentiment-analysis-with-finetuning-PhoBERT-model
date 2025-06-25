@@ -1,0 +1,1 @@
+bắt order bằng mã qr zalo trong khi nhân_viên đứng chơi , rất mất thời_gian , bảng order không ghi rõ_ràng giá từng món , 1 đĩa phở xào 75k thì bảng order hiển_thị 7500 .

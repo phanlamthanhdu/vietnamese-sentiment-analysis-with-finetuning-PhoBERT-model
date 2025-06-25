@@ -1,0 +1,1 @@
+nhân_viên nhận order chậm , quên order của khách , xong đổ lỗi tại bếp làm chậm , trong khi chỉ có mỗi bàn mình mới vô .

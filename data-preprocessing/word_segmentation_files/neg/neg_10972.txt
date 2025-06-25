@@ -1,0 +1,1 @@
+không nhắn mã đặt bàn cho khách dù đã confirm xác_nhận đặt bàn cho khách_hàng .

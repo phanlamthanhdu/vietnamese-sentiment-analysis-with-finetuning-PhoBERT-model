@@ -1,0 +1,1 @@
+gọi món thì nhân_viên đưa 1 menu gọi tổng bill tầm 1tr3 , lúc thanh_toán đưa bill 2tr lúc hỏi thì đưa 1 cái menu khác , lừa_lọc khách_hàng , không bao_giờ ghé lại lần sau .

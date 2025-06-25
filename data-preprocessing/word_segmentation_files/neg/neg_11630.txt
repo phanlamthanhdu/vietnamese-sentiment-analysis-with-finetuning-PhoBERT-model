@@ -1,0 +1,1 @@
+giao hàng thiếu món không kiểm_tra khi giao hàng tại các app cho không .

@@ -1,0 +1,1 @@
+con_nhỏ quản_lý này nó bấm bill cho khách xong , chính tay nó lấy bill khách chen lên bill của shipper , quán này nó lại mất_dạy , ưu_tiên khách của nó hơn .

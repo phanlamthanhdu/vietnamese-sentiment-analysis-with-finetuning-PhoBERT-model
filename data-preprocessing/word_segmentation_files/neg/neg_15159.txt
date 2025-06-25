@@ -1,0 +1,1 @@
+khách vô order liền 30 phút chưa có món và nhân_viên cũng hề biết khách chưa có món , còn hỏi khách là khách đã order chưa .

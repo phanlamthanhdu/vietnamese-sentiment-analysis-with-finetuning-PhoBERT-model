@@ -1,0 +1,1 @@
+gọi cơm và một_số món , quán đưa kèm các đồ không kêu ra ( dưa cà , đậu_phộng tưởng kèm theo các món đã kêu ) ăn xong ra tính tiền , tuy giá_trị không lớn nhưng cảm_giác bị lừa .

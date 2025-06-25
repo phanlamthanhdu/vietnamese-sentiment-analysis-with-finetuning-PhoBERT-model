@@ -1,0 +1,1 @@
+nhân_viên order chờ lâu không có món lúc bực_mình tính tiền thì nhân_viên bảo không có , order bàn mình .

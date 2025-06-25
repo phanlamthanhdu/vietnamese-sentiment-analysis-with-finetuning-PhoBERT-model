@@ -1,0 +1,1 @@
+vote 1 , món lên lâu mà không báo trước cho khách , để khách đợi lâu rồi mới báo món này mất thời_gian làm .

@@ -1,0 +1,1 @@
+lúc trước thì ok , bây_giờ sửa quán lại , phục_vụ gọi món tiếp_theo rất chậm , chờ rất lâu , có_khi món gọi thêm nhưng chờ mãi không thấy đem lên .

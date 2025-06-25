@@ -1,0 +1,1 @@
+đồ_ăn không có trong combo vẫn bê ra và tính tiền cho khách dù khách không gọi làm_ăn quá thiếu chuyên_nghiệp .
