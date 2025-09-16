@@ -14,6 +14,7 @@ This project include three folders:
 ## Dataset
 
 * Description:
+
 | Train | Test | Totally |
 | --- | --- | --- |
 | 30256 records (15268 Pos & 14988 Neg) | 7576 records (3828 Pos & 3748 Neg) | 37832 records |
@@ -32,12 +33,13 @@ This project include three folders:
 
 ## Comparison
 
-* Baseline systems
+### Baseline systems
 The goals of baseline systems is to evaluate the effectiveness of my fine-tuned model; and verify that my dataset and the process of preprocessing are working correctly. Therefore, I established baseline systems against my fine-tuned model:
-•	Traditional ML Approach: Linear SVM and Multinomial Naïve Bayes are popular and effective algorithms for text classification. I trained these models on my dataset by using the available library scikit-learn of Python.
-•	Fine-tuning Approach: there are 4 fine-tuned models (BERT-base, BERT-LSTM, BERT-TextCNN, and BERT-RCNN). They combined BERT model with many types of deep learning models in order to enhance the efficiency of BERT on Sentiment Analysis.
+* Traditional ML Approach: Linear SVM and Multinomial Naïve Bayes are popular and effective algorithms for text classification. I trained these models on my dataset by using the available library scikit-learn of Python.s
+* Fine-tuning Approach: there are 4 fine-tuned models (BERT-base, BERT-LSTM, BERT-TextCNN, and BERT-RCNN). They combined BERT model with many types of deep learning models in order to enhance the efficiency of BERT on Sentiment Analysis.
 
-* Results
+### Results
+
 | Model | Accuracy | Precision(%) | Recall(%) | F1(%) |
 | --- | --- | --- | --- | --- |
 | Linear SVM | 91.30 | 91.35 | 91.43 | 91.39 |
